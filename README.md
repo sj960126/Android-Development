@@ -3,4 +3,4 @@
 ## Architecture
 - MVVM
 ## DesignPattern
--Factory method pattern
+- Factory method pattern
