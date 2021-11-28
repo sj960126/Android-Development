@@ -2,5 +2,7 @@
 
 ## Architecture
 - MVVM
+- MVP
+- MVI
 ## DesignPattern
 - Factory method pattern
